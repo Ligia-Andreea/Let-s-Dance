@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /documentatie/
+http://www.letsdance.byethost33.com/sitemap.xml
